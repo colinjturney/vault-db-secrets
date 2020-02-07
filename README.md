@@ -1,4 +1,4 @@
-# Vault Monitoring and Logging Demo
+# Vault DB Secrets Demo
 
 The code in this demo will build a local Consul cluster with a single Vault server. Several utility scripts are provided to configure Dynamic Database Secrets Engine on Vault and to generate credentials for a readonly, readwrite, and superuser role.
 
